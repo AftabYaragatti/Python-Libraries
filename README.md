@@ -93,8 +93,7 @@ Used by Google, Microsoft, Amazon, Netflix, IBM, Tesla and many leading organiza
 
 <div align="center">
 
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="220"/>
-
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 ### Data Analysis & Manipulation Library
 
 </div>
