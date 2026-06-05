@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=📊+Python+Libraries+for+Data+Analysis;🐍+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;📈+Data+Cleaning+%7C+Analysis+%7C+Visualization;🚀+Learning+Data+Analytics+with+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Python+Libraries+for+Data+Analysis;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;Data+Cleaning+%7C+Analysis+%7C+Visualization;Learning+Data+Analytics+with+Python" alt="Typing SVG" />
+
 
 <br>
 
@@ -352,29 +353,29 @@ Business Insights
 <img src="https://img.shields.io/badge/💻_GitHub-AftabYaragatti-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://aftabyaragatti.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/aftab-yaragatti">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Aftab_Yaragatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="mailto:aftabyaragatto80@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-aftabyaragatto80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/📱_Contact-6362099891-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/📍_Location-Chikodi,_Belagavi,_Karnataka,_India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
