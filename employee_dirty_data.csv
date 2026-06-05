@@ -1,0 +1,17 @@
+Emp ID,Emp Name,Age,Gender,Department,Salary,Joining Date,Phone,Address
+101,Aftab,23,M,IT,45000,2023-01-15,9876543210,Belagavi
+102,  Rahul  ,25,Male,HR,50000,2022-03-20,9876543211,Bangalore
+103,Priya,,F,Finance,55000,2021/05/10,9876543212,Mysore
+104,Anjali,22,Female,IT,,2023-07-01,9876543213,Hubli
+105,Rohan,17,M,Sales,40000,2024-02-15,9876543214,Dharwad
+106,Meena,65,Female,HR,52000,2020-08-11,9876543215,Belagavi
+107,Vikas,28,M,IT,1000000,2022-09-05,9876543216,Bangalore
+108,Arjun,24,Male,Finance,48000,2021-12-01,9876543217,Mysore
+109,Sneha,26,F,Sales,47000,2023-04-18,9876543218,Hubli
+110,Kiran,27,Male,IT,49000,2022-06-30,9876543219,Dharwad
+110,Kiran,27,Male,IT,49000,2022-06-30,9876543219,Dharwad
+111,Pooja,,Female,HR,53000,2021-11-20,,Belagavi
+112,Rakesh,29,M,Sales,-10000,2022-10-10,9876543221,Bangalore
+113,Divya,24,Female,,51000,2023-02-14,9876543222,Mysore
+114,Akash,abc,M,IT,46000,2022-07-25,9876543223,Hubli
+115,Nisha,25,Female,Finance,50000,invalid_date,9876543224,Dharwad
